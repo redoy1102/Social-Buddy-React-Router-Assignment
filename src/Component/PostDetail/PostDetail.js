@@ -17,7 +17,8 @@ const PostDetail = () => {
     boxShadow:'3px 5px 10px',
     margin:'20px',
     padding:'10px',
-    textAlign:'center'
+    textAlign:'center',
+    borderRadius:'10px'
   }
     return (
         <div style={PostDetailStyle}>
